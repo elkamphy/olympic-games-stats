@@ -10,6 +10,6 @@ The project uses the following tech stack :
 - Chart.js v4.2.1 (https://www.chartjs.org/)
 - Bootstrap v5.2.3 (https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 
-## Sceenshots
+## Screenshots
 ![Dashboard](./src/assets/images/dashboard.png)
 ![Detail per country](./src/assets/images/country-detail.png)
